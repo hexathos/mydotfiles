@@ -1,0 +1,8 @@
+[user]
+	name = Rainer Bendig
+	email = rainer.bendig@rainerbendig.de
+[core]
+	autocrlf = false
+	safecrlf = false
+	excludesfile = ~/.gitsetup/gitigore
+	editor = vim
